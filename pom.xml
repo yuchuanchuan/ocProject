@@ -7,6 +7,6 @@
   <packaging>pom</packaging>
   <modules>
     <module>ocCommon</module>
-    <module>ocPortal</module>
+    <module>ocPortal11</module>
   </modules>
 </project>
